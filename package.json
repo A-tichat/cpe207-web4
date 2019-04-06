@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Atichat chantha",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-tichat/cpe207-web4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/A-tichat/cpe207-web4/issues"
+  },
+  "homepage": "https://github.com/A-tichat/cpe207-web4#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
